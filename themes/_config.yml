@@ -201,7 +201,7 @@ links_settings:
 
 links:
   CCTV: https://www.cctv.com/
-
+  中国政府网: http://www.gov.cn/
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
 toc:

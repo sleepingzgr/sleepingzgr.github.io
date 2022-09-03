@@ -1,6 +1,6 @@
 ---
-title: 文章标题
-date: 2019-01-13 03:51:35
+title: {{ title }}
+date: {{ date }}
 tags: 
     - mtx
     - mty
